@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Saacid Abdurasaaq  
 
-<!--
-**Locckk/locckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Full Stack Developer**  
+🎓 Computer Science Student at **University of Hargeisa**  
+📚 Currently learning Full Stack Development at **Telesom Academy**  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🌱 I’m currently learning **Full Stack Web Development**  
+- 👨‍💻 Passionate about **technology, coding, and problem solving**  
+- 🎯 My goal is to become a skilled software developer and build impactful projects  
+- ⚡ Fun fact: I enjoy exploring new tech tools and programming trends  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+
+## 📫 Connect With Me  
+- 📧 Email: your-email@example.com  
+- 🌐 Portfolio: your-portfolio-link  
+- 💼 LinkedIn: your-linkedin-profile  
+
+---
+⭐️ *“Code. Learn. Build. Repeat.”*
