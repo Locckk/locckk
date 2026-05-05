@@ -17,9 +17,8 @@
 - **Tools:** Git, GitHub, VS Code  
 
 ## 📫 Connect With Me  
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: your-portfolio-link  
-- 💼 LinkedIn: your-linkedin-profile  
+- 📧 Email: zacidcabdirisaaq@gmail.com
+
 
 ---
 ⭐️ *“Code. Learn. Build. Repeat.”*
